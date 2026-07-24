@@ -2,7 +2,7 @@
 layout: essay
 title: Taste as a moat in AI literacy
 subtitle: What non-technical teams actually need.
-permalink: /essays/taste-as-a-moat
+permalink: /essays/taste-as-a-moat/
 ---
 
 Last Tuesday, I sat in a product strategy meeting to debate AI-generated campaign concepts. All three concepts were technically sound, all on-brand, all optimized for the distribution metrics we'd agreed to care about this quarter. Our design lead from the agency asked "Which one feels right?" And the room went quiet in a way that felt like an answer.

@@ -2,7 +2,7 @@
 layout: essay
 title: Notes on Agentic AI and the Future of Work
 subtitle: What changes, what doesn't, and what people are missing.
-permalink: /essays/agentic-ai-future-of-work
+permalink: /essays/agentic-ai-future-of-work/
 ---
 
 A shift is happening in the technology landscape. While the world focuses on chatbots and language models, another clear but adjacent transformation is taking shape: the rise of agentic AI. These are systems that don't simply respond to prompts but actively engage with the world, making decisions and carrying out tasks with increasing autonomy.

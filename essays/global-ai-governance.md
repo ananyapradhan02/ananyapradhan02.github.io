@@ -2,7 +2,7 @@
 layout: essay
 title: Navigating the Future of Global AI Governance
 subtitle: Three models, four hard problems, and why alignment matters.
-permalink: /essays/global-ai-governance
+permalink: /essays/global-ai-governance/
 ---
 
 Artificial Intelligence (AI) governance has rapidly evolved into a global priority, shaping societal, economic, and political landscapes. As AI increasingly influences critical sectors such as healthcare, finance, defense, and employment, establishing robust frameworks becomes crucial. Yet, despite AI's universal impact, governance approaches diverge significantly across regions, presenting unique challenges and opportunities in fostering responsible AI development.
