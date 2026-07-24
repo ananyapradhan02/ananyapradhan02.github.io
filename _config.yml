@@ -1,0 +1,6 @@
+title: Ananya Pradhan
+description: Essays and research on growth, AI, and taste.
+url: "https://ananyapradhan02.github.io"
+markdown: kramdown
+exclude:
+  - README.md
